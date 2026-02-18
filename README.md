@@ -1,4 +1,7 @@
-skid by qinuan bombsquad sever
+**skid by qinuan bombsquad sever
+
+>直接把bss.zip下载解压就行
+
 
 ##基本命令介绍
 ---
